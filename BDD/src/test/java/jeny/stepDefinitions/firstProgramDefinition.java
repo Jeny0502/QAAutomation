@@ -13,6 +13,8 @@ public class firstProgramDefinition {
 		System.out.println("Customer lands in the login page");
 		System.out.println("Customer lands in the login page");
 		System.out.println("Customer lands in the login page");
+		
+		System.out.println("Customer **** in the login page");
 	}
 
 //	@When("user enters the {string} and {string}")
@@ -66,6 +68,7 @@ public class firstProgramDefinition {
 	@When("system variable is set to true")
 	public void setToTrue() {
 		System.out.println("system variable is set to true");
+		System.out.println("system variable is set to true or false");
 	}
 	
 	@And("user login page is available")
