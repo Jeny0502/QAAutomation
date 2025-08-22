@@ -10,7 +10,8 @@ import io.cucumber.java.en.When;
 public class firstProgramDefinition {
 	@Given("Customer lands in the login page")
 	public void customer_lands_into_the_application() {
-		System.out.println("Customer lands in the login page");
+		System.out.println("Manual lands in the login page");
+		System.out.println("Manual lands in the login page");
 		System.out.println("Customer lands in the login page");
 		System.out.println("Customer lands in the login page");
 		
